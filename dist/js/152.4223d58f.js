@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[152],{9152:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var u=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Page One")])])}],a={name:"MyAppPageOne",data(){return{}},mounted(){},methods:{}},l=a,s=t(1656),p=(0,s.A)(l,u,r,!1,null,null,null),c=p.exports}}]);
+//# sourceMappingURL=152.4223d58f.js.map
